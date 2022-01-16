@@ -6,6 +6,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/Merciez/MPM)](https://github.com/Merciez/MPM/stargazers)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FMerciez%2FMPM)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e5df027d-03fc-4bd9-915e-6f4466bfbed1/deploy-status)](https://app.netlify.com/sites/merc-mpm/deploys)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5532/badge)](https://bestpractices.coreinfrastructure.org/projects/5532)
+or by 
+
+
+
 # MPM
 
 Merciez Project Management
