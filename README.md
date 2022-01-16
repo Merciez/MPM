@@ -5,7 +5,6 @@
 [![GitHub license](https://img.shields.io/github/license/Merciez/MPM)](https://github.com/Merciez/MPM/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Merciez/MPM)](https://github.com/Merciez/MPM/stargazers)
 
-
 # MPM
 
 Merciez Project Management
