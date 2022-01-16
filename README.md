@@ -2,8 +2,6 @@
 [![Codacy Security Scan](https://github.com/Merciez/MPM/actions/workflows/codacy-analysis.yml/badge.svg)](https://github.com/Merciez/MPM/actions/workflows/codacy-analysis.yml)
 [![GitHub issues](https://img.shields.io/github/issues/Merciez/MPM)](https://github.com/Merciez/MPM/issues)
 
-
-
 # MPM
 
 Merciez Project Management
